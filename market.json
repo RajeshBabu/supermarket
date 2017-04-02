@@ -1,0 +1,36 @@
+{
+  "shopping": {
+    "Rice": [
+      {
+        "brand": "India Gate",
+        "title": "India Gate Basmati Rice - Feast Rozzana",
+        "weight": "1kg",
+        "cost": "200",
+        "image_url": ""
+      },
+      {
+        "brand": "India Gate",
+        "title": "India Gate Basmati Rice - Feast Rozzana",
+        "weight": "1kg",
+        "cost": "200",
+        "image_url": ""
+      }
+    ],
+    "Drinks": [
+      {
+        "brand": "THUMS UP",
+        "title": "Soft Drink",
+        "weight": "1.2LT",
+        "cost": "55",
+        "image_url": ""
+      },
+      {
+        "brand": "THUMS UP",
+        "title": "Soft Drink",
+        "weight": "1.2LT",
+        "cost": "55",
+        "image_url": ""
+      }
+    ]
+  }
+}
